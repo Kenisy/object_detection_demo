@@ -1,6 +1,6 @@
 <annotation>
     <folder>topviewhead</folder>
-    <filename>E:/Learning/TFmodels/research/object_detection/images/train/17</filename>
+    <filename>E:/Learning/TFmodels/research/object_detection/images/train/15</filename>
     <source>
         <database>topviewhead database</database>
         <annotation>topviewhead</annotation>
@@ -18,10 +18,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>580</xmin>
-            <ymin>302</ymin>
-            <xmax>861</xmax>
-            <ymax>538</ymax>
+            <xmin>758</xmin>
+            <ymin>731</ymin>
+            <xmax>1010</xmax>
+            <ymax>950</ymax>
         </bndbox>
     </object>
 </annotation>
