@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>109.jpg</filename>
+	<path>E:\Learning\object_detection_demo\data\images\109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>topviewhead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>380</ymin>
+			<xmax>599</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>
